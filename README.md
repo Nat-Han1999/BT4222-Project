@@ -57,14 +57,10 @@ The following workflow will be applied in this project:
 
 * Limitations
 
-
-# Setup
-Run pycaret using a virtual environment
-
-
 # Contributors
-* Andreas:
+
+* Andreas: https://github.com/AndreasL7
 * Johnson: https://github.com/Johnson-LM
-* Joshua
+* Joshua: https://github.com/Joshzgx
 * Mabel: https://github.com/mabsla
 * Nathaniel: https://github.com/Nat-Han1999
