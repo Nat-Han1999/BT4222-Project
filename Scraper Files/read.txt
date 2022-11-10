@@ -1,0 +1,3 @@
+Scraper Files are used to scrape data from the respective sites.
+
+Data from the Scraper Files will be stored in Raw Scraped Datasets Folder
