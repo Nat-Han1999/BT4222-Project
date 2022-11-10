@@ -1,5 +1,0 @@
-Each datasets from the 10 companies are used to predict its stock price movement. 
-
-Datasets from the 10 companies are combined into one datasets.
-
-Combined datasets are feed into Phase 2 Modelling.
